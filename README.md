@@ -13,7 +13,7 @@ I'm a 2nd year Btech student passionate about Full Stack Developement & AI
 * Improving my skills in **Design and analysis of algorithm**.
 
 ### 📫 Let's Connect
-* [LinkedIn](https://www.linkedin.com/in/sarbesh-c-705a54322/)
+* [LinkedIn](https://www.linkedin.com/in/sarbesh1001)
 * [Email](sarbeshchatterejee@gmail.com)
 
 ---
