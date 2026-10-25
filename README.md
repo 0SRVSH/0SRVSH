@@ -10,7 +10,7 @@ I'm a 3rd year BTech student passionate about Full Stack Developement & AI
 
 ### 🔭 Currently working on
 * [MemSync](https://github.com/0SRVSH/MemSync) - small proof of concept key value cache based on POSIX shared memory
-* [ZeroDrift](https://github.com/0SRVSH/ZeroDrift) - mission-critical, event-sourced financial ledge
+* [ZeroDrift](https://github.com/0SRVSH/ZeroDrift) - mission-critical, event-sourced financial ledger
 * Improving my skills in **System Design & DSA**.
 
 ### 📫 Let's Connect
