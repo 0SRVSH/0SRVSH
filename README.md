@@ -1,6 +1,6 @@
 # Hi there, I'm [Sarbesh](https://github.com/0SRVSH) 👋
 
-I'm a 2nd year Btech student passionate about Full Stack Developement & AI 
+I'm a 3rd year BTech student passionate about Full Stack Developement & AI 
 
 ### 🛠 Tech Stack
 * **Languages:** Python, Java, C++, Javascript
